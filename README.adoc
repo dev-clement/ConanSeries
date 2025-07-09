@@ -1,0 +1,18 @@
+# Conan Series
+The Open source, decentralized and multi-platform package manager to create and share all your native binaries
+
+:toc:
+:sectnums:
+
+== Table of content
+
+In this table of content, you'll be redirected to all the repositories I've did to learn the Conan.
+
+== link:https://github.com/dev-clement/Conan-Ep001.git[Conan introduction]
+This article explain what is conan, and why you should use it if you are doing a C++ project
+
+== link:https://github.com/dev-clement/Conan-Ep002.git[Build project using Conan and CMake]
+The purpose of this article is to guide you through the most important of Conan using practical examples. From using already packaged by Conan, to how to package your libraries
+
+== link:https://github.com/dev-clement/Conan-Ep003.git[Build using tool_requires]
+Although we create a project including Conan in order to pull the `fmt` library from the center, what happens if you want to builld our project with a specific CMake version ? The version is diferent from the one you already installed system-wide ?

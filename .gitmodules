@@ -1,0 +1,12 @@
+[submodule "Conan-Ep001"]
+	path = Conan-Ep001
+	url = https://github.com/dev-clement/Conan-Ep001.git
+[submodule "Conan-Ep002"]
+	path = Conan-Ep002
+	url = https://github.com/dev-clement/Conan-Ep002.git
+[submodule "Conan-Ep003"]
+	path = Conan-Ep003
+	url = git@github.com:dev-clement/Conan-Ep003.git
+[submodule "Conan-Ep004"]
+	path = Conan-Ep004
+	url = git@github.com:dev-clement/Conan-Ep004.git
